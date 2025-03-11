@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1730434755 source:i:\fadl212\project1\main.cpp
+	"contactbooks.h"
+	"person.h"
+	"address.h"
+
+1730434742 i:\fadl212\project1\contactbooks.h
+	<iostream>
+	<iomanip>
+	<string>
+	"person.h"
+	"Darray.h"
+	<fstream>
+
+1730434742 i:\fadl212\project1\person.h
+	<iostream>
+	<string>
+	"address.h"
+
+1730434742 i:\fadl212\project1\address.h
+	<iostream>
+	<string>
+
+1730434742 i:\fadl212\project1\darray.h
+	<iostream>
+	<stdexcept>
+
